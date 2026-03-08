@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.repository
+    value: ghcr.io/mvs5465-test/cluster-query-router
+    forcestring: true
+  - name: image.tag
+    value: main@sha256:0f6a78c633427d91d6711f8000fe528634ab6712467cfdc07690156943e4fb54
+    forcestring: true
