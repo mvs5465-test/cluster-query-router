@@ -4,5 +4,5 @@ helm:
     value: ghcr.io/mvs5465-test/cluster-query-router
     forcestring: true
   - name: image.tag
-    value: main@sha256:e31a302b3c6a15347c73c5abf7bc7a4c252a8a11d8bc9eb2e59c48fb6695ae1b
+    value: main@sha256:9d4c723bce73ce7de00f2c8b0f5d33d1555f0886a6969db6f48ac5849c3393c2
     forcestring: true
